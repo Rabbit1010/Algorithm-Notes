@@ -1,2 +1,2 @@
 # Algorithm-Notes
-My notes on some algorithms. (for study purpose)
+Notes to quickly remember some of the important algorithms.
